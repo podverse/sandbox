@@ -6,4 +6,4 @@ Each demo can be found on its own branch.
 
 Branches are named using the following pattern:
 
-`<username>/<reponame>/<issue#>`
+`<reponame>/<issue#>`
