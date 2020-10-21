@@ -1,0 +1,11 @@
+{
+  "name": "react-modal_issue-782",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/podverse/sandbox.git",
+  "author": "Mitch Downey <mitchldowney@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
